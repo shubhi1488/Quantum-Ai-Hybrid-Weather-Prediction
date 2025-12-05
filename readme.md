@@ -1,4 +1,4 @@
-Google colab link: https://colab.research.google.com/drive/1K06fIOTmP-ft2FrTjG3XDwGoym_1Imur?usp=sharing
+
 # 🌦️ Quantum–AI Hybrid Weather Prediction
 
 A **hybrid Quantum + Deep Learning** system for multi-city weather prediction.  
